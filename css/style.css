@@ -1,0 +1,181 @@
+p{
+    color: rgba(240, 255, 255, 0.326);
+    background-color: black;
+    margin-bottom: 5px;
+    width: 30%;
+
+}
+.p1{
+    background-color: rgba(255, 0, 0, 0.271);
+}
+.d1{
+    display: flex;
+    background-color: blue;
+}
+h1{
+    background-color: blueviolet;
+    width: 30%;
+    height: 50px;
+}
+.d2{
+    text-align: center;
+     display: flex;
+     height: 200px;
+     background: linear-gradient(90deg,rgba(237, 255, 43, 1) 8%, rgba(245, 143, 0, 1) 21%, rgba(245, 0, 0, 1) 46%, rgba(180, 0, 224, 1) 70%, rgba(237, 83, 119, 1) 91%);
+   
+}
+
+.d3{
+    color: white;
+    background-image: url(../imagem/fut.jpg);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h2{
+    width: 20%;
+    margin-right: 10%;
+    background-color: rgba(0, 0, 255, 0.245);
+}
+h1{
+    color:wheat;
+    width: 17%;
+    height: 110px;
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 45px;
+    background-color: rgba(0, 0, 188, 0.751);
+    margin-left: 140px;
+
+
+}
+.b1{
+    background-image: url(../imagem/chinelo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    margin-top: 25px;
+    display: flex;
+}
+.i1{
+    width: 18%;
+    height: 150px;
+    margin-right: 180px;
+    margin-left: 240px;
+    margin-top: 45px;
+    margin-bottom: 50px;
+    
+
+}
+
+.i2{
+    width: 18%;
+    height: 150px;
+    margin-right: 180px;
+    margin-left: 180px;
+    margin-top: 45px;
+
+}
+.b2{
+    background-image: url(../imagem/s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    display: flex;
+}
+.p1{
+    width: 20%;
+    height: 150px;
+    background-color: rgba(240, 248, 255, 0.462);
+    color: rgb(2, 0, 120);
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid rgb(0, 0, 104);
+    margin-left: 150px;
+}
+.p2{
+    width: 20%;
+    height: 150px;
+    background-color: rgba(240, 248, 255, 0.462);
+    color: rgba(1, 12, 163, 0.952);
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid rgb(0, 0, 104);
+    margin-left: 230px;
+    
+
+}
+.p3{
+    width: 20%;
+    height: 150px;
+    background-color: rgba(240, 248, 255, 0.462);
+    color: rgb(7, 0, 142);
+    text-align: center;
+    font-size: 50px;
+    margin-left: 200px;
+    border: 5px solid rgb(0, 0, 104);
+}
+.b3{
+    background: linear-gradient(90deg,rgba(4, 0, 71, 1) 0%, rgba(9, 9, 219, 1) 58%, rgba(0, 4, 31, 1) 100%);
+    display: flex;
+    height: 250px;
+
+
+}
+h2{
+    font-size: 60px;
+    padding-left: 160px;
+    width: 20%;
+    height: 150px;
+    background-color: rgba(0, 0, 255, 0);
+    color: white;
+    padding-top: 30px;
+}
+img{
+    width: 20%;
+    height: 150px;
+    margin-top: 35px;
+
+}
+.f1{
+    width: 20%;
+    margin-left: 240px;
+}
+h3{
+    background-color: rgb(29, 29, 109);
+    text-align: center;
+    height: 200px;
+    font-size: 70px;
+    padding-top: 50px;
+    color: white;
+    margin-top: 10px;
+}
+.r1{
+    background-image: url(../s.jpg);
+    display: flex;
+    height: 100%;
+}
+h1{
+    height: 18%;
+    width: 18%;
+    background-color: rgb(24, 24, 112);
+    color: white;
+    padding-top: 20px;
+    font-size: 40px;
+
+}
+p{
+    width: 10%;
+    height: 4%;
+    margin-top: 480;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    border: solid rgb(0, 0, 85);
+    background-color: rgba(0, 0, 0, 0);
+}
+img{
+    margin-top: 300px;
+    margin-left: 10px;
+}
